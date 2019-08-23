@@ -41,5 +41,5 @@
 
 ![alt text](https://github.com/Puja7629/Home_Automation_System/blob/master/IMG_20180103_144716.jpg)
 # Certified from SkyFi lab :
-![alt text]()
+![alt text](https://github.com/Puja7629/Home_Automation_System/blob/master/26670128-certificate.pdf)
 
